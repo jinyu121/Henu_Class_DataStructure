@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1403007390 source:d:\workspace\cpp\exercise6\main.cpp
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstring>
+	<string>
+	<cstdio>
+	<cmath>
+	<ctime>
+
+1403093232 source:d:\workspace\datastruct\exercise6\main.cpp
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstring>
+	<string>
+	<cstdio>
+	<cmath>
+	<ctime>
+

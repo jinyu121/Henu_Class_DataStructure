@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1400057091 source:d:\workspace\cpp\exercise5\main.cpp
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstring>
+	<string>
+	<cstdio>
+	<cmath>
+	<queue>
+
+1400662015 source:d:\workspace\cpp\exercise5_ver_2\main.cpp
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstring>
+	<string>
+	<cstdio>
+	<cmath>
+	<queue>
+

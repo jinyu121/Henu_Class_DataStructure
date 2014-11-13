@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1395835436 source:d:\workspace\datastruct\exercise3\main.cpp
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstring>
+	<string>
+	<cstdio>
+	<cmath>
+	<stack>
+	<queue>
+
